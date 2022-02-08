@@ -208,24 +208,26 @@
     ]
   },
   "packageFolders": {
-    "/home/laurav/.nuget/packages/": {}
+    "C:\\Users\\Laura.Voineag\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/Laura.Voineag/Code/NewApi/Catalog/Catalog.csproj",
+      "projectUniqueName": "C:\\Users\\Laura.Voineag\\Code\\NewApi\\Catalog\\Catalog.csproj",
       "projectName": "Catalog",
-      "projectPath": "/mnt/c/Users/Laura.Voineag/Code/NewApi/Catalog/Catalog.csproj",
-      "packagesPath": "/home/laurav/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/Laura.Voineag/Code/NewApi/Catalog/obj/",
+      "projectPath": "C:\\Users\\Laura.Voineag\\Code\\NewApi\\Catalog\\Catalog.csproj",
+      "packagesPath": "C:\\Users\\Laura.Voineag\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Laura.Voineag\\Code\\NewApi\\Catalog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/laurav/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Laura.Voineag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -267,7 +269,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

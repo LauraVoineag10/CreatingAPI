@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "a07y+5nmjjeJU7dx+nUUTA7Ba5b+24+twSm8sY3xi/YPTEkNsJRPMs9Ui1aonchxgWkwIhJbKSdjnmjQaCeX9Q==",
+  "dgSpecHash": "Z+NAcyQOnywNzD6R6i6N36zKvfZdGI+DRMgPb2Rws0m6CxZ/5SDrBwkMO0feE3s7POi/Bn7IW1OVs83u7VsuAQ==",
   "success": true,
-  "projectFilePath": "/mnt/c/Users/Laura.Voineag/Code/NewApi/Catalog/Catalog.csproj",
+  "projectFilePath": "C:\\Users\\Laura.Voineag\\Code\\NewApi\\Catalog\\Catalog.csproj",
   "expectedPackageFiles": [
-    "/home/laurav/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "/home/laurav/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
-    "/home/laurav/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "/home/laurav/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "/home/laurav/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "/home/laurav/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\Laura.Voineag\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Laura.Voineag\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Laura.Voineag\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Laura.Voineag\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Laura.Voineag\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Laura.Voineag\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
   ],
   "logs": []
 }

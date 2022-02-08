@@ -22,7 +22,7 @@ namespace Catalog.Controllers
             return items;
         }
         //GET/items/{id}
-        [HttpGet (" {id} ")]
+        [HttpGet ("{id}")]
         public ActionResult<Item> GetItem(Guid id)
         {
             var item = _repository.GetItem(id);
